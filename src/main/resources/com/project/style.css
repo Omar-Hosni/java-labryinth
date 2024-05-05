@@ -1,0 +1,14 @@
+.thick-borders-gridpane {
+    -fx-border-style: solid;
+    -fx-border-width: 4px;
+    -fx-border-color: black;
+}
+
+.thick-borders-gridpane > .content {
+    -fx-background-color: white;
+}
+
+.wall {
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+}
